@@ -7,6 +7,7 @@ I´m a PhD student in Finance at FGV-RJ, graduated in Production Engineering, ho
 - 💞️ I’m looking to collaborate on Quant Python/RStats Community
 - 📫 How to reach me emerson.scheidegger@gmail.com
 
+To contact me, email at emerson.scheidegger@uvv.br
 <!---
 EmersonSch/EmersonSch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
