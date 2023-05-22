@@ -10,5 +10,5 @@ I´m a PhD student in Finance at FGV-RJ, graduated in Production Engineering, ho
 To contact me, email at emerson.scheidegger@uvv.br
 <!---
 EmersonSch/EmersonSch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes..
 --->
